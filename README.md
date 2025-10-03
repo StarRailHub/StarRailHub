@@ -17,7 +17,7 @@
 - **Email 邮箱:** [ctf@liuyingweb.cn](mailto:ctf@liuyingweb.cn)
 - **Bilibili 哔哩哔哩:** [Our Bilibili Space](https://space.bilibili.com/3493280457165617)
 - **GitHub:** [March 7th CTF Team](https://github.com/StarRailHub) 
-- **Web** [ctf.liuyingweb.root-servers.org.cn](ctf.liuyingweb.root-servers.org.cn)
+- **Web** [ctf.liuyingweb.root-servers.org.cn](https://ctf.liuyingweb.root-servers.org.cn)
 ---
 
 > *"To chase our dreams that we’ve declared"*
