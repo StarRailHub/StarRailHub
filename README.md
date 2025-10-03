@@ -9,7 +9,7 @@
 *   BlockChain
 *   Prompt Injection Attack（PIA）
 
-`彩蛋：有时会偷偷发布WP（比赛没结束）`
+
 ---
 
 ## Contact Us / 联系我们
